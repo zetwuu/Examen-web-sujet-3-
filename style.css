@@ -26,3 +26,12 @@ ul {
     justify-content: left;
     align-items: center; 
 }
+
+.logo {
+ position: absolute;
+ width: 5%;
+ height: 10%;
+ top: 88%;
+ right: 30px;
+}
+
