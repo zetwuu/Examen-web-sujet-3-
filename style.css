@@ -1,0 +1,28 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+h2 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+ li {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: left;
+    align-items: center; 
+}
