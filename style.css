@@ -1,9 +1,16 @@
+body { 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url("neon-quiz-screen-with-question-and-exclamation-vector-56866420.avif");
+    background-size: 100%;
+}
+
 h1 {
     display: flex;
     justify-content: center;
     align-items: center; 
     text-decoration: underline;
-    margin-top: 200px;
+    margin-top: 400px;
+    color: goldenrod;
 }
 h2 {
     display: flex;
@@ -14,12 +21,14 @@ h2 {
     margin-right: 600px;
     border: 5px;
     border-style:ridge;
+    color: goldenrod;
 }
 
 h3 {
     display: flex;
     justify-content: center;
     align-items: center; 
+    color: goldenrod;
 }
 
  li {
@@ -44,3 +53,13 @@ ul {
  right: 30px;
 }
 
+
+#juste:active{
+ background-color: rgb(36, 174, 96);
+ transfoctiverm: translateY(4px);
+}
+
+#faux:active{
+ background-color: rgb(223, 50, 50);
+ transfoctiverm: translateY(4px);
+}
