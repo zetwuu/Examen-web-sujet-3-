@@ -56,10 +56,17 @@ ul {
 
 #juste:active{
  background-color: rgb(36, 174, 96);
- transfoctiverm: translateY(4px);
 }
 
 #faux:active{
  background-color: rgb(223, 50, 50);
- transfoctiverm: translateY(4px);
+}
+
+
+ol {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-right: 40px;
+    margin-top: 200px;
 }
